@@ -2,7 +2,7 @@
 
 **Data Scientist / ML Engineer** — I build machine learning systems that ship: from exploratory analysis to tested, containerised, documented services.
 
-📍 Bangalore, India · [LinkedIn](https://www.linkedin.com/in/ayeshalubna7040) · 📫 plumtric007@gmail.com
+📍 Bangalore, India · [LinkedIn](https://www.linkedin.com/in/ayeshalubna7040) · 📫 ayeshalubna6677@gmail.com
 
 ---
 
